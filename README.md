@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Dhave, a backend developer 👨‍💻 and cybersecurity enthusiast🚀</div>  
   
 
-- 🔭 I’m currently working on [a membership system for an organization](http://faym-mis-app.onrender.com/)  
+- 🔭 I’m currently working on [a website for my church](http://faithwebsite.onrender.com/)  
   
 
 - 🌱 I’m currently learning Django rest frame work, networking, pentesting  
