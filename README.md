@@ -6,10 +6,10 @@
 ### <div align="center">Hi, I'm Dhave, a backend developer 👨‍💻 and cybersecurity enthusiast🚀</div>  
   
 
-- 🔭 I’m currently working on [a website for my church](http://faithwebsite.onrender.com/)  
+- 🔭 I just finished working on [a blogging platform called Blogicraft](http://blogicraft.onrender.com/)  
   
 
-- 🌱 I’m currently learning Django rest frame work, networking, pentesting  
+- 🌱 I’m currently learning Django rest framework, flutter, networking, pen-testing  
   
 
 - ❓ Ask me about anything related to Django, Operating Systems, Databases (oracle) and related technologies  
