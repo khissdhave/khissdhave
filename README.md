@@ -9,20 +9,20 @@
 - 🔭 I just finished working on [a blogging platform called Blogicraft](http://blogicraft.onrender.com/)  
   
 
-- 🌱 I’m currently learning Django rest framework, flutter, networking, pen-testing  
+- 🌱 I’m currently learning Django rest framework, flutter, networking, pentesting  
   
 
-- ❓ Ask me about anything related to Django, Operating Systems, Databases (oracle) and related technologies  
+- ❓ Ask me about anything related to Django, Operating Systems, Databases (Oracle) and related technologies  
   
 
-- ⚡ Fun fact: I write my own codes for my frontend and I think I'm funny  
+- ⚡ Fun fact: I write my codes for my frontend and I think I'm funny  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -36,11 +36,11 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
-### Backend  
+### Backend & Others
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -48,21 +48,21 @@
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.django-rest-framework.org/" target="_blank"><img style="margin: 10px" src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django Rest Framework" height="50" /></a>  
 </div>
 
+<!--
 </td><td valign="top" width="33%">
-
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
+</td>
+-->
 
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
@@ -86,8 +86,6 @@
 
 ## Github Stats  
 <a href="http://www.github.com/khissdhave"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khissdhave&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/khissdhave"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=khissdhave&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/khissdhave" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khissdhave&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
