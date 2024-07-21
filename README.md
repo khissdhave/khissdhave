@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Dhave, a backend developer 👨‍💻 and cybersecurity enthusiast🚀</div>  
   
 
-- 🔭 I just finished working on [a blogging platform called Blogicraft](http://blogicraft.onrender.com/)  
+- 🔭 I just finished working on [a blogging platform called Blogicraft]()  
   
 
 - 🌱 I’m currently learning Django rest framework, flutter, networking, pentesting  
