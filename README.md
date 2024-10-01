@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Dhave, a backend developer 👨‍💻 and cybersecurity enthusiast🚀</div>  
   
 
-- 🔭 I just finished working on [a blogging platform called Blogicraft]()  
+- 🔭 I just finished working on PortShare, a file-sharing app
   
 
 - 🌱 I’m currently learning Django rest framework, flutter, networking, pentesting  
@@ -14,8 +14,6 @@
 
 - ❓ Ask me about anything related to Django, Operating Systems, Databases (Oracle) and related technologies  
   
-
-- ⚡ Fun fact: I write my codes for my frontend and I think I'm funny  
   
 
 <br/>  
