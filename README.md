@@ -9,16 +9,16 @@
 - 🔭 I just finished working on PortShare, a file-sharing app
   
 
-- 🌱 I’m currently learning Django rest framework, flutter, networking, pentesting  
+- 🌱 I’m currently learning Django rest framework, networking, pen-testing  
   
 
-- ❓ Ask me about anything related to Django, Operating Systems, Databases (Oracle) and related technologies  
+- ❓ Ask me about anything related to Django, Linux, and related technologies  
   
   
 
 <br/>  
 
-
+<!--
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
@@ -58,11 +58,11 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 </td>
--->
+
 
 </tr></table>  
 
-<br/>  
+<br/>  -->
 
 
 ## Connect with me  
