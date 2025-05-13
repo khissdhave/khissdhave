@@ -3,13 +3,13 @@
 </div>  -->
   
 
-### <div align="center">Hi, I'm Dhave, a backend developer 👨‍💻 and cybersecurity enthusiast🚀</div>  
+### <div align="center">Hi, I'm Dhave, a fullstack developer 👨‍💻 and cybersecurity enthusiast🚀</div>  
   
 
 - 🔭 I just finished working on PortShare, a file-sharing app
   
 
-- 🌱 I’m currently learning Django rest framework, networking, pen-testing  
+- 🌱 I’m currently learning Django rest framework, Next.js, networking, pen-testing  
   
 
 - ❓ Ask me about anything related to Django, Linux, and related technologies  
